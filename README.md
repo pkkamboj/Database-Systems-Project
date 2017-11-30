@@ -1,4 +1,4 @@
-# cps510-project
+# Database Systems Term project
 
 This is a project I worked on for my 'Database Systems' course, where, in groups of 3, we had to create a database management system for a clothing retail store in Oracle using SQL and through shell script aswell. We did little parts of the project throught the course as we learned about databases and SQL. Our tables are all normalized in 3NF. 
 
